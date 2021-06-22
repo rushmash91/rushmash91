@@ -24,9 +24,17 @@
 - 🌱 I’m currently learning **React**
 - 👯 I’m looking to collaborate on **Data Science or Web Development**
 - 🤔 I’m am always looking for help with **Frontend**
-- 💬 Ask me about Anything [here](https://github.com/rushmash91/rushmash91/issues/1)! I am happy to talk.
 - 😄 Pronouns : **He/Him/His**
 - ⚡ Fun fact : **Steins;Gate** is my favourite anime
 
 <br/>
 <br/>
+  
+![bitmoji](https://sdk.bitmoji.com/render/panel/1c7a37eb-b01b-4cfd-a8fc-16be993470d5-c263af14-6335-4be9-8bcd-0b37edc2975c-v1.png?transparent=1&palette=1&width=246)
+
+### 💬 Ask me about Anything [here](https://github.com/rushmash91/rushmash91/issues/1)! I am happy to talk.
+  
+<br/>
+<br/>
+  
+#### Find some awesome Projects pinned below 👇
