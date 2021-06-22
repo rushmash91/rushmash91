@@ -1,33 +1,23 @@
-<!-- ### Hi there 👋 -->
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="Hi.gif" width="30px"></h2>
+</div>
 
-### Hi Fellow Dev👋
-<!-- 
-[![GitHub](https://img.shields.io/github/followers/harshbg.svg?style=social)](http://bit.ly/2HYQaL1)
-[![Twitter](https://img.shields.io/twitter/follow/harshbg.svg?style=social)](http://bit.ly/2VHxROX)
-![Views](https://komarev.com/ghpvc/?username=harshbg&color=yellow) -->
+<div align="center" width="50">
 
-I'm Arush Sharma, infinitely curious Python Developer.
+<img src="messagif.gif" alt="Welcome!" width="300"/>
 
-<!-- - 🔭 I’m currently working on creating quantified self <a href="https://harshgupta.com/dashboard">dashboards</a> 
-- 🌱 I’m currently learning api integration
-- 👯 I’m looking to collaborate on any pro-bono data science projects
-- 📫 How to reach me: <a href="https://twitter.com/harshbg">Twitter</a> 
- -->
+</div>
 
-<!-- ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=rushmash91&hide=contribs,issues&show_icons=true) -->
+<br/>
+<br/>
 
+- 🔭 I’m currently working on **Machine Learning, Data Science and Web Development** Projects
+- 🌱 I’m currently learning **React**
+- 👯 I’m looking to collaborate on **Data Science or Web Development**
+- 🤔 I’m am always looking for help with **Frontend**
+- 💬 Ask me about Anything [here](https://github.com/rushmash91/rushmash/issues/1)! I am happy to talk.
+- 😄 Pronouns : **He/Him/His**
+- ⚡ Fun fact : **Steins;Gate** is my favourite anime
 
-<!--
-**rushmash91/rushmash91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<br/>
