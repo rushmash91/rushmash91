@@ -24,7 +24,6 @@
 - 🌱 I’m currently learning **React**
 - 👯 I’m looking to collaborate on **Data Science or Web Development**
 - 🤔 I’m am always looking for help with **Frontend**
-- 😄 Pronouns : **He/Him/His**
 - ⚡ Fun fact : **Steins;Gate** is my favourite anime
 
 <br/>
