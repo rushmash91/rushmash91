@@ -18,11 +18,10 @@
 <a href="mailto:arushsharma91@outlook.com"><img src="gmail.svg" width="40px" height="40px" /></a>
 </p>
 
-- 🔭 I’m currently working as a **Software Engineer**, building data pipelines and working extensively with structured and unstructured data
+- 🔭 I’m currently working as a **Software Engineer** working extensively with structured and unstructured data
 - 🌱 I’m constantly learning and currently mastering the **AWS technology stack for cloud-based data management and processing**
 - 👯 I’m looking to collaborate on **Intelligent Scalable** projects
-- 🤔 I’m am always looking for help with **Data Governance and Cloud Technologies**
-- ⚡ Fun fact: I'm an **AWS Certified Cloud Practitioner**
+- ⚡ Fun fact: I'm an **AWS Certified**
 
 <br/>
 <br/>
@@ -34,4 +33,4 @@
 <br/>
 <br/>
   
-#### Find some awesome Data Engineering and Data Science Projects pinned below 👇
+#### Find some awesome Projects pinned below 👇
