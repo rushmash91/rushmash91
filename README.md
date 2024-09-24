@@ -18,15 +18,9 @@
 <a href="mailto:arushsharma91@outlook.com"><img src="gmail.svg" width="40px" height="40px" /></a>
 </p>
 
-- 🔭 I’m currently working as a **Software Engineer** working extensively with structured and unstructured data
-- 🌱 I’m constantly learning and currently mastering the **AWS technology stack for cloud-based data management and processing**
-- 👯 I’m looking to collaborate on **Intelligent Scalable** projects
-- ⚡ Fun fact: I'm an **AWS Certified**
-
 <br/>
 <br/>
   
-![bitmoji](https://sdk.bitmoji.com/render/panel/1c7a37eb-b01b-4cfd-a8fc-16be993470d5-c263af14-6335-4be9-8bcd-0b37edc2975c-v1.png?transparent=1&palette=1&width=246)
 
 ### 💬 Ask me about Anything [here](https://github.com/rushmash91/rushmash91/issues/1)! I am happy to talk.
   
